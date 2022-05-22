@@ -10,7 +10,7 @@
 
 ## ⚡ Bot Features: 🔥
 - Managing Users Subscription
-- Paying for subscription with 2 payment channels # CBE Birr & # TeleBirr
+- Paying for subscription with 2 payment channels **CBE Birr** & **TeleBirr**
 - Redirecting to webapp for successfull subscription.
 
 ## Authors of WebApp and Bot
