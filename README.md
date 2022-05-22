@@ -1,6 +1,6 @@
-# ⚡ Skeleton for aiogram Bot 😋 
+# ⚡ Subscription bot for Amharic Handwriting Recognition Webapp 😋 
 
-- A Skeleton for aiogram bot
+- Amharic handwriting recognition webapp
 
 ## ⚡ Vars: 🔥
 
@@ -9,16 +9,15 @@
 
 
 ## ⚡ Bot Features: 🔥
+- Managing Users Subscription
+- Paying for subscription with 2 payment channels # CBE Birr & # TeleBirr
+- Redirecting to webapp for successfull subscription.
 
-### Admin Panel
-
-## Author
+## Authors of WebApp and Bot
 
 👤 **Tamirat Ayalew (вιηι)**
-
-- Telegram: [@BiniTech](https://t.me/BiniTech)
-- Twitter: [@TechBini](https://twitter.com/TechBini)
-- Github: [@BiniTech](https://github.com/binitech)
+👤 **Besufikad Mikael **
+👤 **Mikiyas Godana (MikiGode)**
 
 ## 🤝 Contributing
 
