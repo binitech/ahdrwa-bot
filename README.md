@@ -15,9 +15,9 @@
 
 ## Authors of WebApp and Bot
 
-👤 **Tamirat Ayalew (вιηι)**,
-👤 **Besufikad Mikael **,
-👤 **Mikiyas Godana (MikiGode)**,
+👤 **Tamirat Ayalew (вιηι)**
+👤 **Besufikad Mikael (Bese)**
+👤 **Mikiyas Godana (MikiGode)**
 
 ## 🤝 Contributing
 
