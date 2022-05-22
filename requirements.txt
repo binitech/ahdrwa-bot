@@ -1,2 +1,3 @@
 aiogram
 pyrebase4
+requests~=2.27.1
